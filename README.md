@@ -35,14 +35,15 @@ All figures sourced directly from official Eurobank Annual Report PDFs (no pre-c
 ---
 
 ### 3. Operational KPI & Quality Control Dashboard
-**Business question:** Where are the performance gaps in a multi-location operation, and what is the financial cost of defects and fatal errors?
+**Business question:** Do quality problems come from specific employees, supervisors or locations, or from the process?
 
-**Key insights:**
-- **131K** total tasks monitored across all locations
-- Overall defect rate: **20%** — fatal error rate: **8%**
-- Overall quality score: **71.75/100** (below the 80% industry benchmark)
-- Supervisor-level breakdown exposes clear performance gaps between locations
-- Designed for management-level decision-making, not just reporting
+**Key insights (January to August 2020, 9 employees, 3 supervisors, 4 locations):**
+- **130,899** tasks, of which **9,860** were sampled for quality (7.53%)
+- **1,984** samples had a defect (**20.1%**) and **801** a fatal error (**8.1%**)
+- Quality score (samples without a defect): **79.88%**
+- Employees score between **79.33% and 81.04%** and the three supervisor teams are within 0.27 points of each other (79.78% to 80.05%), so defects come from the process, not from specific people
+- Fatal errors stay between **95 and 111 per month**. Chicago has the highest fatal error rate (**9.1%** of samples, against 7.5% to 8.3% in the other locations) and its two employees have the most fatal errors (105 and 104)
+- What I would do: fix the process steps that produce fatal errors (checklists or validation rules), start the review in Chicago, and track the fatal error rate per sampled task every month
 
 ---
 
