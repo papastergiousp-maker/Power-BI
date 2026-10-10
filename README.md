@@ -37,6 +37,8 @@ All figures sourced directly from official Eurobank Annual Report PDFs (no pre-c
 ### 3. Operational KPI & Quality Control Dashboard
 **Business question:** Do quality problems come from specific employees, supervisors or locations, or from the process?
 
+![Operational KPI & Quality Control Dashboard](Power_BI_Screenshots/Operational%20KPI%20%26%20Quality%20Control%20Dashboard.png)
+
 **Key insights (January to August 2020, 9 employees, 3 supervisors, 4 locations):**
 - **130,899** tasks, of which **9,860** were sampled for quality (7.53%)
 - **1,984** samples had a defect (**20.1%**) and **801** a fatal error (**8.1%**)
